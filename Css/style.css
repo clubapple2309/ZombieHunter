@@ -1,0 +1,27 @@
+#container{
+    width: 1250px;
+    height: 850px;
+    margin: 0 auto;
+    font-family: 'Kanit', sans-serif;
+    border:  solid 1px black;
+    background: url(../Imgs/background.png) no-repeat center/cover;
+    /*	background-color: #000;*/
+}
+
+#left-panel {
+    width: 20%;
+    float: left;
+    border:  solid 1px black;
+}
+
+#left-container {
+    width: 79%;
+    float: left;
+}
+#control{
+    padding-left: 25px;
+    padding-top:20px ;
+    color: #CE4B17;
+}
+#game-container {
+}
